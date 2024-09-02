@@ -146,4 +146,4 @@ Configure Help Topics
 
 ![image](https://github.com/user-attachments/assets/d6b59a46-5cbc-4f4a-9008-95e020191289)
 
-Post installation setup is now complete!
+Congratulations! Post installation setup is now complete!
